@@ -6,6 +6,7 @@ pycryptodome
 python-multipart
 pydantic
 pytest
+cryptography
 firebase-admin==6.4.0
 
 
